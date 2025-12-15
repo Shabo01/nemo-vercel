@@ -146,7 +146,7 @@ export const HomePage = () => {
       {/* Hero Section */}
       <section style={{ background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', color: 'white', padding: '4rem 0', textAlign: 'center' }}>
         <div className="container">
-          <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Добро пожаловать в FashionHub</h1>
+          <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Шабдан, добро пожаловать в FashionHub</h1>
           <p style={{ fontSize: '1.3rem', marginBottom: '2rem' }}>Откройте для себя последние модные тренды</p>
           <a href="/products" className="btn btn-primary" style={{ padding: '1rem 2rem', fontSize: '1.1rem' }}>
             Начать покупки
